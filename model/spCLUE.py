@@ -1,3 +1,8 @@
+# Portions of this file are adapted from spCLUE (Wang et al., 2025).
+# Copyright (c) 2025, Vivian Li Lab.
+# Licensed under the MIT License; see LICENSES/spCLUE_LICENSE.txt.
+
+
 import torch
 import numpy as np
 

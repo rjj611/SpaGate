@@ -18,13 +18,6 @@ The framework supports both single-slice spatial domain identification and multi
 - PyTorch >= 2.1.2
 - CUDA 11.8 (recommended for GPU acceleration)
 
-Install the required Python packages:
-
-```bash
-pip install -r requirements.txt
-
-
-
 ## Code provenance and acknowledgement
 
 SpaGate introduces an upstream feature-enhancement framework that combines
@@ -46,3 +39,10 @@ https://github.com/EnchantedJoy/spCLUE
 
 spCLUE is distributed under the MIT License. The original copyright notice
 and license are retained in `LICENSES/spCLUE_LICENSE.txt`.
+
+
+Install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+
